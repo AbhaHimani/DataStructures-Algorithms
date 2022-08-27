@@ -91,6 +91,9 @@ int knapsack(int W, int wt[], int val[], int n, vector<vector<int>> &dp)
 
 ##### Types of Questions on 01 Knapsack
 [416.Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  `Medium`
+
 [Count of subset sum with given sum](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) `Medium`
+
 [Minimum Subset Sum difference aka Last stone weight](https://leetcode.com/problems/last-stone-weight-ii/)
 
+[Target Sum](https://leetcode.com/problems/target-sum/)
