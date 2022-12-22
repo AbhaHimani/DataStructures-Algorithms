@@ -3,3 +3,4 @@
 - [_DSA Sheet by Fraz_](https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/edit#gid=0)
 - [450 DSA](https://450dsa.com/)
 - [Aditya Verma Playlist](https://www.youtube.com/@TheAdityaVerma)
+- [A2Z Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
